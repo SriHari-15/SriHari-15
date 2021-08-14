@@ -1,5 +1,15 @@
-### Hi there 👋
+Hello! Contact me any time on my Discord - Sri Hari#0001 ;)
 
+### About Me
+- Casual gamer
+- Casual coder
+
+### Coding languages
+- Java
+- JavaScript
+- Lua
+- Little bit of CSS
+- Little bit of Python
 <!--
 **SriHari-15/SriHari-15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
