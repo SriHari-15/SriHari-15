@@ -4,7 +4,7 @@ I like coding for fun and I love to learn new stuff.
 
 ### 🚀 Skills
 
-- **Programming Languages**: Python, Java, JavaScript, C# (learning), C++ (learning)
+- **Programming Languages**: Python, Java, JavaScript, Lua, C# (learning), C++ (learning)
 - **Database Management**: SQL
 
 ---
