@@ -2,7 +2,7 @@
 
 I like coding for fun and I love to learn new stuff.
 
-## 🚀 Skills
+### 🚀 Skills
 
 - **Programming Languages**: Python, Java, JavaScript, C# (learning), C++ (learning)
 - **Database Management**: SQL
@@ -32,7 +32,7 @@ I like coding for fun and I love to learn new stuff.
 
 - **Code Editors**: Visual Studio Code, Visual Studio Professional 2022
 - **Version Control**: Git & GitHub
-- **Databases**: MySQL
+- **Database**: MySQL
 
 ---
 
