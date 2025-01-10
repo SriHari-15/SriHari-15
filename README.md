@@ -11,7 +11,7 @@ I like coding for fun and I love to learn new stuff.
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=SriHari-15&show_icons=true&theme=radical)
+![Sri Hari's stats](https://github-readme-stats.vercel.app/api?username=SriHari-15&show_icons=true&theme=radical)
 
 ---
 
