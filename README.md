@@ -38,7 +38,7 @@ I like coding for fun and I love to learn new stuff.
 
 ### 📫 Let's Connect
 
-Contact me directly on GitHub!
+Please contact directly on GitHub!
 
 ---
 
